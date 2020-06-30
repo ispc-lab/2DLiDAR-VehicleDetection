@@ -37,7 +37,7 @@ you can get our data at Baiduyun Cloud URL: https://pan.baidu.com/s/1nYYVnSxpRYb
 
 ### Usage
 
-You can access the [`Hybrid Resnet Lite` README.md](./src/Hybrid ResNet Lite) and [`Cascade Pyramid RCNN` README.md](./src/Cascade Pyramid RCNN) to get details.
+You can access the [`Hybrid Resnet Lite` README.md](./src/Hybrid%20ResNet%20Lite) and [`Cascade Pyramid RCNN` README.md](./src/Cascade%20Pyramid%20RCNN) to get details.
 
 ### Contact 
 Please contact Guang Chen (email:tj_autodrive@hotmail.com) for your questions about this repository.
